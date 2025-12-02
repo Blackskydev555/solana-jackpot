@@ -1,4 +1,3 @@
-export const NETWORK = "devnet";
 export const CREATOR_ADDRESS = "A8rgsJecHutEamvb7e8p1a14LQH3vGRPr796CDaESMeu";
 export const API_URL = "https://api.slowrug.io/";
 export const SOCKET_URL = "https://ws.slowrug.io/";
